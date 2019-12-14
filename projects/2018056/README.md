@@ -15,3 +15,7 @@ link εργασιας 2:https://asciinema.org/a/aYpHZcRqU0bzyaEhvZ67sD07Q
 
 link εργασιας 3:https://asciinema.org/a/8jbJcS78NvCgn2OudP2ixuaid
 
+Εργασία:text editor and plug-ins for code highlighting and autocompletion
+
+link εργασιας 4:https://asciinema.org/a/PtWzBH1SDL0DvvqvlHpPVfXr8
+
